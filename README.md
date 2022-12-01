@@ -1,5 +1,5 @@
 
-//REGISTER
+1.//REGISTER
 API: /api/User/registeruser
 
 reqmodel:
@@ -12,7 +12,7 @@ reqmodel:
 
 
 
-//LOGIN (Create JWT TOKEN)
+2.//LOGIN (Create JWT TOKEN)
 API: /api/User/loginuser
 
 reqmodel:
@@ -22,7 +22,7 @@ reqmodel:
 }
 
 
-//SEARCH
+3.//SEARCH
 Api: /api/Search
 
 reqModel:
@@ -33,7 +33,7 @@ reqModel:
   "toDate": "2022-11-29T21:31:54.784Z"
 }
 
-//BOOK
+4.//BOOK
 Api: /api/Book
 
 reqModel:
@@ -46,7 +46,7 @@ reqModel:
     "toDate": "2022-11-29T21:33:19.382Z"
 }
 
-//CHECKSTATUS
+5.//CHECKSTATUS
 Api: api/CheckStatus
 
 reqModel:
